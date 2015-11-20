@@ -1,0 +1,113 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>
+			Euro 2016
+		</title>
+		<link rel="stylesheet" href="css/global.css" />
+		<link href='https://fonts.googleapis.com/css?family=Questrial|Indie+Flower' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+		<header>
+			<a href="index.html"><img id="banniere" width="100%" src="https://image.freepik.com/vecteurs-libre/eclaboussures-banniere-et-une-petite-baisse_21-2462840.jpg"/></a>
+			<nav class="center">
+				<ul>
+					<li>
+						Organisation
+						<ul>
+							<a href="calendrier.html"><li>Calendrier</li></a>
+							<a href="stades.html"><li>Villes hôtes et stades</li></a>
+						</ul>
+					</li>
+					<li>
+						Matches
+						<ul>
+							<a href="pays-participants.html"><li>Participants</li></a>
+							<a href="resultats.html"><li>Résultats</li></a>
+						</ul>
+					</li>
+					<li>
+						Galerie
+						<ul>
+							<a href="galerie-photo.html"><li>Photos</li></a>
+							<a href="galerie-video.html"><li>Vidéos</li></a>
+						</ul>
+					</li>
+					<a href="boutique.html"><li>Boutique</li></a>
+					<a href="formulaire.php"><li>Formulaire</li></a>
+				</ul>
+			</nav>
+		</header>
+		<section>
+			<h1>EURO 2016</h1>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			<p>.</p>
+			
+		</section>
+		<footer class="center">
+			<ul>
+				<li>Nous contacter</li>
+				<li>Mentions légales</li>
+				<li>Crédits</li>
+				<li>Plan du site</li>
+			</ul>
+		</footer>
+	</body>
+</html>
